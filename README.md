@@ -10,8 +10,11 @@ ECharts.js
 
 ## Usage
 需要自己配一下数据库  
+
 > sqlite3 test.db  
 > 表格式参见sqlite/  
 > 数据也在这里边  
+
 可能需要改一下代码里的数据库路径  
+
 > 在flaskr.py里边
