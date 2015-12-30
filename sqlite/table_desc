@@ -1,0 +1,17 @@
+create table just_test(
+id char(10),
+create_year int,
+user_type char(10),
+faculty int(4),
+address_type char(4),
+login_time int,
+logout_time int,
+continual_time int,
+inflow int,
+outflow int,
+allflow int,
+cost float,
+logout_cause char(4),
+session_id char(10),
+os char(20),
+os_version char(20));

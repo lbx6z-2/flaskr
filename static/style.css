@@ -1,0 +1,15 @@
+body {
+    padding-top: 50px;
+}
+
+.greeting {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.row {
+    padding: 5px 5px;
+}
+.content {
+    padding: 40px 15px;
+}
