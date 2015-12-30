@@ -5,8 +5,8 @@
 ## 用到的东西（其他不记得了）
 Flask 0.10.1、flask-login  
 sqlite3  
-bootstrap、bootstrap-select  
-ECharts.js  
+bootstrap 3.3.5（好像还高一些）、bootstrap-select  
+ECharts.js  2.2.7
 
 ## Usage
 需要自己配一下数据库  
