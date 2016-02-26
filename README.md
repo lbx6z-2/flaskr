@@ -5,6 +5,7 @@
 ## 用到的东西（其他不记得了）
 - Flask 0.10.1、flask-login  
 - sqlite3  
+- 下面的东西并不需要自行安装
 - bootstrap 3.3.5（好像还高一些）、bootstrap-select  
 - ECharts.js  2.2.7
 
